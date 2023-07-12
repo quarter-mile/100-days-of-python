@@ -24,6 +24,6 @@ if height >= 120 :
   else:
     wants_photo = input("You have entered an unaccepted value. Please answer Y for \"yes\" and N for \"no\" ")
 
-  print(f"You final bill is ${bill}")
+  print(f"Your final bill is ${bill}")
 else:
   print("Sorry you have to grow taller before you can ride :(")
